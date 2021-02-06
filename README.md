@@ -5,7 +5,7 @@ Nice clean plant app UI using flutter, the Home page you will get search box tha
 Here I've used:
 
 - Box Decoration with box shadow.
-- image asset for icons.
+- Image.asset for icons.
 
 I've taken help from youtube. Link is given below:
 
