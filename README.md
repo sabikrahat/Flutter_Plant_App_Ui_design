@@ -7,7 +7,7 @@ Here I've used:
 - Box Decoration with box shadow.
 - image asset for icons.
 
-I've taken help from youtube. Link are given below:
+I've taken help from youtube. Link is given below:
 
 - Ui Design: [link](https://youtu.be/LN668OAUrK4)
 
